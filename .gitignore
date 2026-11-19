@@ -1,3 +1,4 @@
 shae-http-server
 dist/
 *.exe
+.vercel
